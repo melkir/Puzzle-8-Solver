@@ -1,11 +1,11 @@
 # Puzzle-8-Solver
-    board = [[1, 2, 3],
-             [5, 8, 4],
-             [6, 0, 7]]
+    puzzle = [[1, 2, 3],
+              [5, 8, 4],
+              [6, 0, 7]]
              
 A*      ~ 0,5 sec  
 IDDFS   ~ 4,5 sec  
-A* is 9 times faster than IDDFS for this puzzle
+A* is 9 times faster than IDDFS for solving this puzzle
 
 Credits :  
 A*     http://codereview.stackexchange.com/questions/76906/python-8-puzzle-and-solver  
